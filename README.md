@@ -15,4 +15,5 @@ Test and debug: Tested the project to make sure it works as intended. You can us
 
 Deploy your project: Once your project is complete, create a standalone executable using tools like PyInstaller.
 
+Extract The All Libraries Folder's Contents in the main Folder to run.
 To Run Install the relavent Libraries and Run PatientName-Run Application File.
