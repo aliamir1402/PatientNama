@@ -14,3 +14,5 @@ Generate a PDF file: A PDF library like ReportLab or PyPDF2 to generate a PDF fi
 Test and debug: Tested the project to make sure it works as intended. You can use unit tests and integration tests to ensure that your code is functioning correctly. You should also debug any issues that arise.
 
 Deploy your project: Once your project is complete, create a standalone executable using tools like PyInstaller.
+
+To Run Install the relavent Libraries and Run PatientName-Run Application File.
